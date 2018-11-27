@@ -1,0 +1,58 @@
+body {margin:0; padding:0; font-family:serif; width:100%;}
+		.container-fluid {padding-right:0; padding-left:0; margin-right:auto; margin-left:auto}
+		.top {height:4px; background-color:#3BAFBE;}
+		.wrapper {height:100px; background-color:white;}
+		.social {margin: 20% 0 0 -2%;}
+		.social ul li {display:inline-block;}
+		.social ul li a {display:inline-block; height:30px; width:30px; background-color:#1F1F1F; border-radius:50%; text-align: center; text-decoration:none; color:white; line-height: 30px;}
+
+		.social ul li a:hover {background-color: #EE802F;}
+		.search {margin: -45% 0 0 70%;}
+		.searchbar {background-color:#333; font-size: .8em; border:none; height:27px; padding-left:5px; border-radius:7px; color:white;}
+		.searchbutton {font-size: .8em; height: 27px; border:none; border-radius:7px; color:white; background-color:#3BAFBE;}
+		.wrapper img {height:40px; width: 150px; margin:2% 0 0 3%;}
+		.navbar ul {margin:0 0 0 0;}
+		.navbar ul li {display:inline; font-size: 1.1em;}
+		.navbar-brand {float:left; position:absolute; margin:0 0 0 0;}
+		nav {width:100%;}
+		nav a:hover {color:#3BAFBE;}
+		.carousel { width:100%; margin:5% 0 0 0; border-top:1px solid #E2E2E2; border-bottom:1px solid #E2E2E2;}
+		.buckets {margin:3em 0 0 0; height:auto;}
+		.bucket {margin:0 auto; margin:0 10px;}
+		.bucket img {margin:1em auto; display:block;}
+		.bucket img:hover {opacity:.6;}
+		.bucket h2 {margin:.8em auto; width:300px; font-size:1.3em;}
+		.bucket p { width:300px; margin:0 auto; font-size:.9em; padding-bottom:10px;}
+		.bucket div {width:300px; margin:12px auto; }
+		.bucket div a {background-color:#3BAFBE; text-decoration: none; font-size: .7em; color:white; padding: 8px 6px 6px 6px; border-radius: 7px;}
+		.bucket div a:hover {background-color: #137885;}
+		.bar {height:1px; width:95%; background-color: #CCCCCC; margin:35px auto;}
+		.quote {margin:0 auto;}
+		.quote p {font-style: italic; font-size:1.2em; opacity: .8;}
+		.quote i {font-size:.7em;}
+		.scope-links {margin:40px 0;}
+		.scope {margin:30px 0;}
+		.scope img {float:left; margin:0 15px;}
+		.scope h3 {font-size:1em; color:#3BAFBE; }
+		.scope p {font-size:.9em;}
+		.footer {background-color:#252525; color:white;}
+		.contact {margin: 30px 0px;}
+		.contact h3 {font-size:1.2em;}
+		.contact p {color:#999999; font-size:.9em;}
+		.contact p a {color:#3BAFBE;}
+		.quick-links {margin: 30px 0px;}
+		.quick-links h3 {font-size:1.2em;}
+		.quick-links div {width:200px; margin:15px 0; border-bottom: 1px solid #444;}
+		.quick-links div a {color:#3BAFBE; font-size:.9em;}
+		.blog { margin: 30px 0px;}
+		.blog h3 {font-size:1.2em;}
+		.blog h4 {color:#999999; margin-top:15px; font-size:1em;}
+		.blog h5 {color:#999999; font-size:.8em;}
+		.blog p {color:#999999; font-size:.9em;}
+		.blog a {color:#3BAFBE; font-size:.9em; float:right; margin:-15px 0 0 -25px;}
+		.newsletter { margin: 30px 0px;}
+		.newsletter h3 {font-size:1.2em;padding-bottom: 15px;}
+		.newsletter-field {width:250px; margin: 4px 0; padding: 5px 0 5px 10px; font-family:serif; background-color: #2C2C2C; border:none; border-radius: 7px; color:white; font-size:.8em;}
+		.submit {margin:10px 0; border:none; background-color:#3BAFBE; font-size:.8em; color:white; padding:10px 10px 5px 10px; font-family:serif; border-radius: 6px;}
+		.bottom {background-color:black;}
+		.bottom p {color:#999999; font-size:.8em; margin:15px;}

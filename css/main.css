@@ -1,0 +1,84 @@
+* {margin:0; padding:0; font-family: 'Montserrat', sans-serif;}
+
+body {background:black;}
+
+.window {background-image: url('../img/firefox1.png'); background-size:100%;}
+
+.links {width:200px; margin:0 auto;}
+
+li {list-style:none; margin:10px 0; text-align: center; }
+
+li a {text-decoration: none; font-size: 23px; color:white; }
+
+.cilla:hover {color:#f4d442;}
+
+.vr:hover {color:#3af48a;}
+
+.freshness:hover {color:#3ad2f4;}
+
+.backpacker:hover {color:#fc5849;}
+
+.underline {
+
+	height:5px; 
+	width:200px; 
+	background-image: url('../img/gradient.png'); 
+	margin:10px auto;
+	-webkit-text-fill-color: transparent; 
+	-webkit-animation: spin 15s infinite;
+
+}
+
+@-webkit-keyframes spin {
+  	0%    {background-position: -50px 0;}
+    
+    50%   {background-position: 435px 0px;}
+    
+    100%  {background-position: -50px 0;}
+}
+
+
+
+
+
+.lucas {width:200px; margin:35vh auto 0 auto; color:white; text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+
+
+.lucas {width:100%; margin:20vh auto 0 auto; text-align: center;}
+
+.links {width:100%; margin:0 auto;}
+
+li {margin:10px 0;}
+
+li a {font-size: 60px;}
+
+.underline {
+
+	height:5px; 
+	width:280px; 
+	margin:10px auto;
+
+}
+
+
+
+}
